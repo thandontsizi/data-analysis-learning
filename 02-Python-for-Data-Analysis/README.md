@@ -1,25 +1,61 @@
 # Python for Data Analysis:
 
 ## Purpose:
-This folder or stage focuses on using Python as a tool for structured data analysis. The goal is not advanced programming but disciplined and readable analytical workflows.
+This section focuses on using Python as a practical tool for structured data analysis.
 
-This folder covers:
+The goal is to build confidence in:
 - Loading datasets.
-- Inspecting structure.
+- Inspecting dataset structure.
 - Identifying data quality issues.
-- Cleaning messy data.
-- Performing basic exploratory analysis.
+- Cleaning data.
+- Analysing data using pandas.
 - Communicating findings clearly.
 
+---
 
-## Philosophy:
-Python will not be used for complexity here. 
-It is used for clarity.
+## Focus:
+Python is used in this section to support structured analysis and not advanced programming.
 
-Every step should answer:
-- What is the dataset about?
-- What problems exist in the data?
-- What assumptions am I making?
-- What limitations remain?
+The emphasis is on:
+- Clarity.
+- Repeatable workflows.
+- Careful reasoning.
+- Accurate interpretation of data.
 
-The objective is to build professional analytical habits, not just code execution.
+---
+
+## Workflow:
+The work in this section follows a simple analytical process:
+1. Load the datasest.
+2. Inspect the data.
+3. Document findings.
+4. Clean the data if necessary.
+5. Analyse the cleaned dataset.
+6. Reflect on the work.
+
+---
+
+## Practice Structure:
+The practice folder is divided into focused exercises:
+- '01-data-inspection': Practice checking dataset structure, missing values, duplicated, and column types.
+- '02-data-cleaning': Practice identifying and fixing common data quality issues.
+- '03-basic-eda': Practice basic exploratory analysis using grouping, aggregation, and summary statistics.
+
+---
+
+## Tools:
+The main tools used in this section are:
+- Python
+- pandas
+- Linux CLI
+- Git
+- GitHub
+
+---
+
+## Outcome:
+By the end of this section, the aim is to be able to:
+- Inspect daatasets confidently.
+- Clean data in a structured way.
+- Perform basic analysis with pandas.
+- Explain findings clearly.
