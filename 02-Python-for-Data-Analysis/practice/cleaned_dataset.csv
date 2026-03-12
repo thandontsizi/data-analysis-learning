@@ -1,0 +1,13 @@
+order_id,customer_name,email,product,category,price,quantity,order_date
+1,Alice M.,alice@example.com,Laptop,Technology,12000,1.0,2026-02-01
+2,Brian K.,brian@example.com,Monitor,Technology,3500,1.0,2026-02-02
+3,Chris N.,chris@example.com,Keyboard,Office Supplies,600,1.0,2026-02-04
+4,Dineo S.,dineo@example.com,Mouse,Office Supplies,250,2.0,2026-02-01
+5,Ethan P.,ethan@example.com,USB-C Cable,Office Supplies,150,3.0,2026-02-03
+6,Unknown,frank@example.com,Laptop,Technology,12000,1.0,2026-02-05
+7,Grace T.,grace@example.com,Monitor,Technology,3500,1.0,2026-02-06
+8,Henry W.,henry@example.com,Keyboard,Office Supplies,600,1.0,2026-02-07
+9,Isabella R.,isabella@example.com,Mouse,Office Supplies,250,2.0,
+10,James L.,james@example.com,USB-C Cable,Office Supplies,150,3.0,2026-02-09
+11,Kabelo N.,kabelo@example.com,Laptop,Technology,12000,1.0,2026-02-10
+12,Lerato P.,lerato@example.com,Monitor,Technology,3500,1.0,2026-02-11
