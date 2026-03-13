@@ -19,9 +19,9 @@ Some useful principles include:
 - **Preserve valid data whenever possible:** Removing rows should be a last resort because it discards real information.
 - **Use contextual evidence to correct errors:** If values in similar rows follow a consistent pattern, those patterns can guide corrections.
 - **Mark values as missing when the correct value cannot be confidently inferred.**
-- **Document every cleaning decision:** Documenting makes the rerason behind decisions and changes transparent.
+- **Document every cleaning decision:** Documenting makes the reason behind decisions and changes transparent.
 
-These principles help maintain the integrity of the daataset while improving its usability.
+These principles help maintain the integrity of the dataset while improving its usability.
 
 ---
 
