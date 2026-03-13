@@ -26,7 +26,7 @@ The emphasis is on:
 
 ## Workflow:
 The work in this section follows a simple analytical process:
-1. Load the datasest.
+1. Load the dataset.
 2. Inspect the data.
 3. Document findings.
 4. Clean the data if necessary.
@@ -55,7 +55,7 @@ The main tools used in this section are:
 
 ## Outcome:
 By the end of this section, the aim is to be able to:
-- Inspect daatasets confidently.
+- Inspect datasets confidently.
 - Clean data in a structured way.
 - Perform basic analysis with pandas.
 - Explain findings clearly.
