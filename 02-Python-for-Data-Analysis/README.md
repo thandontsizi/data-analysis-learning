@@ -1,7 +1,7 @@
 # Python for Data Analysis:
 
 ## Purpose:
-This section  on using Python as a practical tool for structured data analysis.
+This section focuses on using Python as a practical tool for structured data analysis.
 
 The goal is to build confidence in:
 - Loading datasets.
