@@ -6,14 +6,14 @@
 
 ## 2. Creating a Line Chart (Trends):
 - Command: plt.plot(x, y)
-- Explanation: Creates a line chart. Used to show trends over time or ordered data.
+- Explanation: Creates a line chart. Used to show trends over time of ordered data.
 - Example:
 ```bash
-	x = [1, 2, 3]
-	y = [10, 20, 15]
+x = [1, 2, 3]
+y = [10, 20, 15]
 
-	plt.plot(x, y)
-	plt.show()
+plt.plot(x, y)
+plt.show()
 ```
 ## 3. Creating a Bar Chart (Comparisons):
 - Command: plt.bar(categories, values)
