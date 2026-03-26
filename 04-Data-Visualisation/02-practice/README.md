@@ -26,4 +26,4 @@ Practice focuses on:
 ## Notes:
 - These exercises focus only on visualisation.
 - Data used here is assumed to already be cleaned.
-- Full analysis workflows are handled in Python practice section (../../02-Python-for-Data-Analysis/03-practice).
+- Full analysis workflows are handled in the [Python practice section](../../02-Python-for-Data-Analysis/03-practice).
