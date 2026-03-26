@@ -1,52 +1,32 @@
 # Python for Data Analysis:
 
 ## Purpose:
-This section focuses on using Python as a practical tool for structured data analysis.
+This section focuses on using Python to analyse structured datasets.
 
-The goal is to build confidence in:
-- Loading datasets.
-- Inspecting dataset structure.
-- Identifying data quality issues.
-- Cleaning data.
-- Analysing data using pandas.
-- Communicating findings clearly.
+The goal is to build practical skills in inspecting, cleaning, and analysing data using pandas, supported by NumPy where necessary.
 
 ---
 
-## Focus:
-Python is used in this section to support structured analysis and not advanced programming.
+## Folder Structure:
+- **01-Pandas-Fundamentals:**
+	- Core tool for data analysis (commands, tests, and exercices).
 
-The emphasis is on:
-- Clarity.
-- Repeatable workflows.
-- Careful reasoning.
-- Accurate interpretation of data.
+- **02-NumPy-Fundamentals:**
+	- Supporting numerical operations.
 
----
-
-## Section Structure:
-This section is divided into focused modules:
-- **01-NumPy-Fundamentals:** Covers numerical operations, array manipulation, and basic data preparation.
-- **02-Matplotlib-Fundamentals:** Covers data visualisation including line charts, bar charts, and distributions.
+- **03-Practice:**
+	- Applied analysis using synthetic and real datasets.
 
 ---
 
 ## Workflow:
-The work in this section follows a simple analytical process:
+The work in this section follows a consistent analytical process:
 1. Load the dataset.
 2. Inspect the data.
 3. Document findings.
 4. Clean the data if necessary.
 5. Analyse the cleaned dataset.
 6. Reflect on the work.
-
----
-
-## Practice Structure:
-The practice folder is divided into focused exercises:
-- '01-data-inspection': Practice checking dataset structure, missing values, duplicated rows, and column types.
-- '02-data-cleaning': Practice identifying and fixing data quality issues.
-- '03-basic-eda': Practice basic exploratory analysis using grouping, aggregation, and summary statistics.
 
 ---
 
@@ -67,5 +47,4 @@ By the end of this section, the aim is to be able to:
 - Inspect datasets confidently.
 - Clean data in a structured way.
 - Perform basic analysis using Python tools.
-- Create simple visualisations.
 - Explain findings clearly.
