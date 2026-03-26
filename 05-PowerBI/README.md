@@ -36,7 +36,7 @@ By working through this folder, I will be able to:
 ---
 
 ## Usage Notes:
-- **Practice Only:** This folder is for learning and experimentation. Final polished dashboards go into the [portfolio repository](../../data-analysis-portfolio).
+- **Practice Only:** This folder is for learning and experimentation. Final polished dashboards go into the [portfolio repository](../../../../data-analysis-portfolio).
 - **Consistency:** Follow the same naming conventions and folder structure as other learning modules.
 - **Reflections:** After completing each dashboard, add observations and notes in 'notes.md' to capture lessons learned and challenges faced.
 
