@@ -1,4 +1,4 @@
-# Matplotlib Fundamentals:
+# Matplotlib Fundamentals
 
 ## Overview:
 Matplotlib is used to visualise data. It helps turn numerical results into charts that make patterns, trends, and comparisons easier to understand.
