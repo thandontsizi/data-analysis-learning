@@ -1,4 +1,4 @@
-# PostgreSQL Fundamentals
+# PostgreSQL Fundamentals:
 ## Overview:
 This folder is dedicated to learning the fundamentalsof PostgreSQL, a powerful relational database system. It covers installation, 
 navigation, creating databases and tables, inserting data, querying, updating, deleting, and essential commands daily use.
