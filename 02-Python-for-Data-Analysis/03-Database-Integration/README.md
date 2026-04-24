@@ -20,7 +20,7 @@ The emphasis is not on syntax, but on understanding how these pieces work togeth
 
 ## Folder Structure:
 ```bash
-	TO BE ADDED WHEN PROJECT IS CONPLETE.
+	TO BE ADDED WHEN PROJECT IS COMPLETE.
 ```
 
 ---
